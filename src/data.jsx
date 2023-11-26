@@ -1,0 +1,88 @@
+const projects = [
+  {
+    id: 1,
+    name: "valorant",
+    img: "../public/old projects/valorent-min.png",
+    desc: "Landing page clone valorent website, Landing page clone valorent website Landing page clone valorent website,Clone Valorant website using html, css and js.Clone Valorant website using html, css and js",
+
+    demo: "https://amrsalah-dev.github.io/valorant/",
+    code: "https://github.com/amrsalah-dev/valorant",
+    date: "10/3/2022",
+    tech: ["html", "css", "js"],
+  },
+  {
+    id: 2,
+    name: "second project",
+    img: "../public/old projects/omnifood-min.png",
+    desc: "Landing page clone valorent website, Landing page clone valorent website Landing page clone valorent website,Clone Valorant website using html, css and js.Clone Valorant website using html, css and js",
+
+    demo: "/",
+    code: "/",
+    date: "6/9/2022",
+    tech: ["html", "css", "js"],
+  },
+  {
+    id: 3,
+    name: "third project",
+    img: "../public/old projects/valorent-min.png",
+
+    desc: "Landing page clone valorent website, Landing page clone valorent website Landing page clone valorent website,Clone Valorant website using html, css and js.Clone Valorant website using html, css and js",
+
+    demo: "/",
+    code: "/",
+    date: "3/3/2023",
+    tech: ["html", "css", "js"],
+  },
+  {
+    id: 4,
+    name: "E-commerce",
+    img: "../public/old projects/omnifood-min.png",
+    desc: "Landing page clone valorent website, Landing page clone valorent website Landing page clone valorent website,Clone Valorant website using html, css and js.Clone Valorant website using html, css and js",
+    demo: "/",
+    code: "/",
+    date: "in progress",
+    tech: ["react", "css"],
+  },
+  {
+    id: 5,
+    name: "E-commerce",
+    img: "../public/old projects/omnifood-min.png",
+    desc: "Landing page clone valorent website, Landing page clone valorent website Landing page clone valorent website,Clone Valorant website using html, css and js.Clone Valorant website using html, css and js",
+    demo: "/",
+    code: "/",
+    date: "in progress",
+    tech: ["react", "css"],
+  },
+  {
+    id: 6,
+    name: "E-commerce",
+    img: "../public/old projects/omnifood-min.png",
+    desc: "Landing page clone valorent website, Landing page clone valorent website Landing page clone valorent website,Clone Valorant website using html, css and js.Clone Valorant website using html, css and js",
+    demo: "/",
+    code: "/",
+    date: "in progress",
+    tech: ["react", "css"],
+  },
+  {
+    id: 7,
+    name: "E-commerce",
+    img: "../public/old projects/omnifood-min.png",
+    desc: "Landing page clone valorent website, Landing page clone valorent website Landing page clone valorent website,Clone Valorant website using html, css and js.Clone Valorant website using html, css and js",
+    demo: "/",
+    code: "/",
+    date: "in progress",
+    tech: ["react", "css"],
+  },
+  {
+    id: 8,
+    name: "E-commerce",
+    img: "../public/old projects/omnifood-min.png",
+    desc: "Landing page clone valorent website, Landing page clone valorent website Landing page clone valorent website,Clone Valorant website using html, css and js.Clone Valorant website using html, css and js",
+    demo: "/",
+    code: "/",
+    date: "in progress",
+    tech: ["react", "css"],
+  },
+];
+
+export default projects;

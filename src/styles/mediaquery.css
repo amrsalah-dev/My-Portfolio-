@@ -1,0 +1,177 @@
+@media (min-width:400px) {
+
+    /* ? NAV */
+    nav {
+        gap: 18px;
+    }
+
+    nav button {
+        width: 45px;
+    }
+
+    /* ? LOGO */
+    .logo {
+        width: 100px;
+    }
+
+    aside {
+        padding: 20px 20px 50px;
+    }
+
+    .nav-info h1 {
+        font-size: 27px;
+        padding: 0 10px
+    }
+
+    .nav-info p {
+        border-radius: 10px;
+        padding: 4px 7px;
+        font-size: 12px;
+    }
+
+    /* ? CONTACT */
+    .contact ul {
+        gap: 20px;
+    }
+}
+
+@media (min-width:500px) {
+    .cards {
+        grid-template-columns: repeat(auto-fit, minmax(318px, 1fr));
+        padding-inline: 8vw;
+    }
+}
+
+@media (min-width:703px) {
+    .cards {
+        padding-inline: 0px;
+    }
+}
+
+
+@media (min-width:990px) {
+
+    /*? Button GO TO TOP */
+    .app>button {
+        bottom: 30px;
+    }
+
+    .app>button img {
+        width: 35px;
+    }
+
+    .app>button.active {
+        right: 50px;
+    }
+
+    .app.flex {
+        display: flex;
+        padding: 0;
+    }
+
+    aside.flex {
+        flex: 1;
+        height: 100vh;
+        position: sticky;
+        top: 0;
+        padding: 30px 30px 10px;
+    }
+
+    /* ? MAIN */
+    main {
+        flex: 1.8;
+    }
+
+    main>section {
+        padding: 50px 30px
+    }
+
+    /* section>h2 { */
+    /* position: sticky; */
+    /* top: 20px;  */
+    /* } */
+    /* ? LOGO */
+    .logo {
+        width: 80px;
+    }
+
+    .nav-info h1 {
+        font-size: 24px;
+    }
+
+    .nav-info p {
+        font-size: 11px;
+    }
+
+    /*? Projects */
+    .cards {
+        grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+        padding: 10px;
+    }
+
+    /* ? Skills  */
+
+    @media (min-width:990px) {
+        .skill-img {
+            width: 110px;
+        }
+
+        .skills-imgs span {
+            letter-spacing: 2px;
+            font-style: 14px;
+        }
+    }
+
+    /*? Hire Me */
+    .hire-me h1 {
+        font-size: min(3vw, 36px);
+    }
+
+    .hire-me .link a {
+        font-size: min(2vw, 25px)
+    }
+
+}
+
+@media (min-width:990px) and (max-width:1200px) {
+    section>h2 {
+        font-size: 20px;
+    }
+}
+
+
+
+@media (min-width:1200px) {
+    .logo {
+        width: 100px;
+    }
+
+    .nav-info h1 {
+        font-size: 36px;
+    }
+
+    .nav-info p {
+        margin-left: 5px;
+        font-size: 15px;
+    }
+}
+
+@media (min-width:990px) and (max-width:1300px) {
+    .about p:first-child {
+        font-size: 16px;
+    }
+
+    .about p:last-child {
+        font-size: 18px;
+    }
+
+    .contact {
+        padding: 0;
+    }
+}
+
+@media (min-width:1299px) {
+    .logo {
+        width: 130px;
+    }
+}
