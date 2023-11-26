@@ -2,7 +2,7 @@ const projects = [
   {
     id: 1,
     name: "valorant",
-    img: "../public/old projects/valorent-min.png",
+    img: "/projects_images/valorent-min.png",
     desc: "Landing page clone valorent website, Landing page clone valorent website Landing page clone valorent website,Clone Valorant website using html, css and js.Clone Valorant website using html, css and js",
 
     demo: "https://amrsalah-dev.github.io/valorant/",
@@ -13,7 +13,7 @@ const projects = [
   {
     id: 2,
     name: "second project",
-    img: "../public/old projects/omnifood-min.png",
+    img: "/projects_images/omnifood-min.png",
     desc: "Landing page clone valorent website, Landing page clone valorent website Landing page clone valorent website,Clone Valorant website using html, css and js.Clone Valorant website using html, css and js",
 
     demo: "/",
@@ -24,7 +24,7 @@ const projects = [
   {
     id: 3,
     name: "third project",
-    img: "../public/old projects/valorent-min.png",
+    img: "/projects_images/valorent-min.png",
 
     desc: "Landing page clone valorent website, Landing page clone valorent website Landing page clone valorent website,Clone Valorant website using html, css and js.Clone Valorant website using html, css and js",
 
@@ -36,7 +36,7 @@ const projects = [
   {
     id: 4,
     name: "E-commerce",
-    img: "../public/old projects/omnifood-min.png",
+    img: "/projects_images/omnifood-min.png",
     desc: "Landing page clone valorent website, Landing page clone valorent website Landing page clone valorent website,Clone Valorant website using html, css and js.Clone Valorant website using html, css and js",
     demo: "/",
     code: "/",
@@ -46,7 +46,7 @@ const projects = [
   {
     id: 5,
     name: "E-commerce",
-    img: "../public/old projects/omnifood-min.png",
+    img: "/projects_images/omnifood-min.png",
     desc: "Landing page clone valorent website, Landing page clone valorent website Landing page clone valorent website,Clone Valorant website using html, css and js.Clone Valorant website using html, css and js",
     demo: "/",
     code: "/",
@@ -56,7 +56,7 @@ const projects = [
   {
     id: 6,
     name: "E-commerce",
-    img: "../public/old projects/omnifood-min.png",
+    img: "/projects_images/omnifood-min.png",
     desc: "Landing page clone valorent website, Landing page clone valorent website Landing page clone valorent website,Clone Valorant website using html, css and js.Clone Valorant website using html, css and js",
     demo: "/",
     code: "/",
@@ -66,7 +66,7 @@ const projects = [
   {
     id: 7,
     name: "E-commerce",
-    img: "../public/old projects/omnifood-min.png",
+    img: "/projects_images/omnifood-min.png",
     desc: "Landing page clone valorent website, Landing page clone valorent website Landing page clone valorent website,Clone Valorant website using html, css and js.Clone Valorant website using html, css and js",
     demo: "/",
     code: "/",
@@ -76,7 +76,7 @@ const projects = [
   {
     id: 8,
     name: "E-commerce",
-    img: "../public/old projects/omnifood-min.png",
+    img: "/projects_images/omnifood-min.png",
     desc: "Landing page clone valorent website, Landing page clone valorent website Landing page clone valorent website,Clone Valorant website using html, css and js.Clone Valorant website using html, css and js",
     demo: "/",
     code: "/",
