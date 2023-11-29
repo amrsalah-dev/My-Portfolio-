@@ -31,7 +31,7 @@
 
     /* ? CONTACT */
     .contact ul {
-        gap: 20px;
+        gap: 15px;
     }
 }
 
@@ -123,13 +123,13 @@
     }
 
     /*? Hire Me */
-    .hire-me h1 {
+    /* .hire-me h1 {
         font-size: min(3vw, 36px);
     }
 
     .hire-me .link a {
         font-size: min(2vw, 25px)
-    }
+    } */
 
 }
 

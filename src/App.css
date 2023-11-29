@@ -317,11 +317,6 @@ nav button {
 }
 
 .contact ul li a {
-  /* padding: 8px 12px;
-  padding: 5px 10px; */
-  /* font-size: 18px;
-  padding: 5px 8px; */
-  /* font-size: 18px; */
   padding: 8px 24px 8px 14px;
   font-size: 18px;
   text-transform: capitalize;
@@ -476,7 +471,8 @@ nav .theme-btn svg {
 }
 
 .hire-me h1 {
-  font-size: 7vw;
+  font-size: clamp(1rem, 7vw, 3rem);
+  /* font-size: min(3vw, 36px); */
   margin-bottom: 25px;
 }
 
@@ -486,7 +482,8 @@ nav .theme-btn svg {
 
 .hire-me .link a {
   color: #3c3c43eb;
-  font-size: 4vw;
+  /* font-size: 4vw; */
+  font-size: clamp(1rem, 4vw, 2rem);
   font-weight: bold;
   letter-spacing: 1.5px;
   background-color: #f8f7f8;
